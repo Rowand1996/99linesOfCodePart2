@@ -1,0 +1,27 @@
+body {
+    background-color:lightblue;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(31, 44, 85);
+}
+
+.friend {
+    background-color: green;
+    border-radius:4em;
+}
+
+h3 {
+    text-transform: uppercase;
+    padding-top: .5em;
+    color: rgb(31, 44, 85);
+}
+
+p:last-child {
+    padding-bottom: .5em;
+}
+
+p {
+    color: rgb(31, 44, 85);
+}
